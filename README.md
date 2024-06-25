@@ -34,7 +34,7 @@ I am also happy that I was able to attend many of the workshops that taught me t
 ## What we learned
 I learned a lot about using mediapipe, as it was my first time actually using the software (I actually learned about it from one of the sign-language detection workshops). I am very glad I was able to use a powerful API without paying (lol). I also learned a lot about ML and training from workshops. I learned how to identify who's face was who's. 
 
-## What's next for Facial Recognition Security System
+## What's next for Warden
 In the future, this technology could be adopted into systems like security cameras or check-in cameras. There are better methods for normalization and identification, so implementing those would be a good next step as well. 
 
 Feel free to let me know how well the code works for you, in my experience moving the camera or rapidly moving your face drastically decreases it's efficiency, but that's to be expected: there's only so much that can be done with one camera.
